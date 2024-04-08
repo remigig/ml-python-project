@@ -1,1 +1,1 @@
-# coursera-ML-with-python-project
+ML-python-project
